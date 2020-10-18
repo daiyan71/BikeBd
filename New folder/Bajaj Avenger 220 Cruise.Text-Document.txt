@@ -1,0 +1,10 @@
+Mileage (City):   49.8 km/l
+Engine Type:     Single Cylinder, 4-Stroke, 4-Valve, SOHC
+Displacement:    155 cc
+No. of Cylinders:  1
+Max Power:    18.8 @ 8400 RPM
+Max Torque:    17.5 @ 5500 RPM
+Front Brake:     260 mm Disc
+Rear Brake:      130 mm Drum
+Fuel Capacity:  14 L
+Body Type:    Professional Bikes

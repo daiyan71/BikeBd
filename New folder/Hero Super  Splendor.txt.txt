@@ -1,0 +1,10 @@
+Mileage (City):   60 kmpl
+Engine Type:     Single Cylinder, 4-Stroke, 2-Valve, SOHC
+Displacement:    124.7 cc
+No. of Cylinders:  1
+Max Power:    9 bhp @ 7000 rpm
+Max Torque:    10.35 Nm @ 4000 rpm
+Front Brake:    Disc
+Rear Brake:     Disc
+Fuel Capacity:  11 L
+Body Type:    Professional Bikes

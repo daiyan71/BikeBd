@@ -1,0 +1,69 @@
+input[type=submit]{
+	background:rgb(117, 143, 174);
+	color:white;
+	text-align:center;
+	padding:12px;
+	text-decoration:none;
+	display:block;
+	border-radius:5px;
+	font-size:16px;
+	margin: 25px 0 15px 0;
+	width:100%;
+}
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+input[type=submit]:visited{
+	text-decoration:none;
+	color:white;
+	
+}
+input[type=submit]:hover{
+	background: #080832;
+	text-decoration:none;
+	color:white;
+}
+input[type=submit]:active{
+	text-decoration:none;
+	color:white;
+}
+.btn-danger{
+	font-size:12px;
+	padding:3px;
+	
+	color:white;
+	text-align:center;
+
+	text-decoration:none;
+	display:block;
+	border-radius:5px;
+}
+/* Style inputs with type="text", select elements and textareas */
+input[type=text],input[type=password], select {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+}
+
+/* Style the submit button with a specific background color etc */
+
+
+/* Add a background color and some padding around the form */
+#contactForm{
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-top:100px ;
+  margin-bottom:100px;
+}

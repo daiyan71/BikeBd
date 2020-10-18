@@ -1,0 +1,56 @@
+input[type=submit]{
+	background:rgb(117, 143, 174);
+	color:white;
+	text-align:center;
+	padding:12px;
+	text-decoration:none;
+	display:block;
+	border-radius:5px;
+	font-size:16px;
+	margin: 25px 0 15px 0;
+	width:100%;
+}
+input[type=submit]:visited{
+	text-decoration:none;
+	color:white;
+	
+}
+input[type=submit]:hover{
+	background: #080832;
+	text-decoration:none;
+	color:white;
+}
+input[type=submit]:active{
+	text-decoration:none;
+	color:white;
+}
+.btn-danger{
+	font-size:12px;
+	padding:3px;
+	
+	color:white;
+	text-align:center;
+
+	text-decoration:none;
+	display:block;
+	border-radius:5px;
+}
+.products{
+	border: 1px solid #333;
+	background-color: #f1f1f1;
+	border-radius:5px;
+	padding:16px;
+	margin-bottom:20px;
+}
+
+#table{
+	margin-top: 200px;
+}
+th{
+	background:rgb(241, 241, 241);
+		color:black;
+}
+tr:nth-child(even){
+	background-color:rgb(254, 254, 254);
+	color: black;
+}

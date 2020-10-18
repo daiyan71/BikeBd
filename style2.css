@@ -1,0 +1,80 @@
+.bikes{
+	background-color: rgb(254,254,254);
+	border-radius: 5px;
+	padding: 10px;
+	
+	margin-bottom: 20px;
+}
+.bikes:hover{
+	background-color: rgb(244,244,244);
+
+
+}
+.text-info:hover{
+
+}
+.dropdown-item:hover{
+	color:black;
+}
+.dropdown-menu{
+	color:black;
+	background-color:black;
+}
+.dropdown-menu:hover{
+	color:black;
+	background-color:black;
+}
+
+body,html{
+	height:100%;
+	background-color:#F9F9Ff;
+
+}
+#main{
+	min-height:100%;
+}
+.mainn{
+	background-color: linear-gradient(#Fffeee, #Fffeeee, #eeeeee);
+}
+
+.bgimg{
+	background-image:url("img/bikecover3.jpg"); 
+    background-size:auto;
+	/*filter: blur(2px);*/
+    position: sticky;
+	width:100%;
+	height:950px;
+}
+.headerset{
+	padding-top: 400px;
+	box-sizing: border-box;
+}
+.headerset h1{
+	font-size: 95px;
+	color: #FFFFFF;
+	text-shadow:  255 14px 118px;
+	font-family:Carter One;
+}
+.headerset h3{
+	color: #FFC107;
+	font-size: 22px;
+	text-shadow:  0 14px 118px;
+}
+img{
+	width: 100%;
+}
+.btn2{
+	background-color:rgb(117, 143, 174); 
+	color: white; 
+	border: 2px solid rgb(117, 143, 174);
+	margin-top:10px;
+	border-radius:5px;
+	margin-top: 30px;
+}
+
+.btn2:hover{
+	border: 2px solid rgb(117, 143, 174);
+	background-color: #082832;
+	border: 2px solid #082832;
+	color: white;
+}

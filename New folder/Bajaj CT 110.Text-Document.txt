@@ -1,0 +1,10 @@
+Mileage (City):   N/A
+Engine Type:     Single Cylinder, 4 Gears, 2-Valve
+Displacement:    115 cc
+No. of Cylinders:  1
+Max Power:    8.40 bhp @ 7000 rpm
+Max Torque:    9.81 Nm @ 5000 rpm
+Front Brake:    Drum
+Rear Brake:     Drum
+Fuel Capacity:  10.5 L
+Body Type:      Professional Bikes

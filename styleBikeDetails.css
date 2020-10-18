@@ -1,0 +1,58 @@
+.bikes{
+	background-color: rgb(254,254,254);
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 20px;
+	
+}
+	
+
+.bgimg{
+	background-image:url("img/bikecover2.jpg"); 
+    background-size:auto;
+    position: sticky;
+	width:100%;
+	height:950px;
+}
+.headerset{
+	padding-top: 400px;
+	box-sizing: border-box;
+}
+.headerset h1{
+	font-size: 82px;
+	color: rgb(5,5,5);
+	font-weight: bold;
+	text-shadow:  255 14px 118px;
+}
+.headerset h3{
+	color: black;
+	font-size: 22px;
+	text-shadow:  0 14px 118px;
+}
+img{
+	width: 100%;
+
+}
+
+img:hover{
+	width: 930px;
+	height:620px;
+	margin-left:-50%;
+	margin-top:-20%;
+
+}
+
+.btn2{
+	background-color:rgb(117, 143, 174); 
+	color: white; 
+	border: 2px solid rgb(117, 143, 174);
+	margin-top:10px;
+	border-radius:5px;
+}
+
+.btn2:hover{
+	border: 2px solid rgb(117, 143, 174);
+	background-color: #082832;
+	border: 2px solid #082832;
+	color: white;
+}
